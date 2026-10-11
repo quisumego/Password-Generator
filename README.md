@@ -25,7 +25,7 @@ Poor passwords remain a common attack vector. This project supports stronger pas
 You need Python 3. Clone the repository then run the scripts from the `src` folder.
 
 ```bash
-git clone https://github.com/DebisLimbuHub/Password-Generator.git
+git clone https://github.com/quisumego/Password-Generator.git
 cd Password-Generator/src
 python PasswordGenerator.py
 python PasswordManager.py
